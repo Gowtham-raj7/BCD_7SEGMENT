@@ -23,7 +23,7 @@ STEP:7 compare the output with truth table.
 
 ![image](https://github.com/RESMIRNAIR/BCD_7SEGMENT/assets/154305926/804ab8db-8637-45ac-b10f-80e77d818d61)
 # VERILOG CODE
-```
+``
 Verilog module.
 module segment7(
      bcd,
@@ -50,7 +50,7 @@ module segment7(
             default : seg = 7'b1111111; 
         endcase
     end
-    ```
+    ``
 endmodule
 # OUtput
 ![image](https://github.com/Gowtham-raj7/BCD_7SEGMENT/assets/164861308/5006fb40-8502-4e43-a01c-a44535c46d0f)
